@@ -43,8 +43,20 @@ It allows users to browse food items, add them to a cart, mark favourites, and p
 
 ## 📂 Project Structure
 
-<img width="226" height="254" alt="image" src="https://github.com/user-attachments/assets/d403e767-37b6-4818-b44a-7e80a1bec21f" />
-
+```
+TastyCart/
+├─ css/
+│  └─ style.css
+├─ images/
+│  ├─ burger.jpg
+│  ├─ pasta.jpg
+│  └─ pizza.jpg
+├─ js/
+│  └─ script.js
+├─ food.json
+├─ Index.html
+└─ package-lock.json
+```
 
 ## 🖼️ Screenshots
 
@@ -59,12 +71,3 @@ It allows users to browse food items, add them to a cart, mark favourites, and p
 
 
 ---
-
-## 📌 Future Improvements
-
-* User authentication (Login / Signup)
-* Payment integration
-* Backend database integration
-* Real-time order tracking
-
-Give it a **star ⭐ on GitHub**.
