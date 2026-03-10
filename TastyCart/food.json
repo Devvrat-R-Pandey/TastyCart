@@ -1,0 +1,44 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Golden Corn Pizza",
+      "restaurant": "Golden Corn Pizza",
+      "price": 250,
+      "type": "veg",
+      "rating": 4.3,
+      "time": "25–30 mins",
+      "category": "Dominos",
+      "location": "Kandivali East",
+      "image": "pizza.jpg",
+      "offer": "ITEMS AT ₹79"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "restaurant": "Chicken Crispy Burger",
+      "price": 150,
+      "type": "nonveg",
+      "rating": 4.1,
+      "time": "10–25 mins",
+      "category": "Burger King",
+      "location": "Andheri East",
+      "image": "burger.jpg",
+      "offer": "20% OFF"
+    },
+
+     {
+      "id": 3,
+      "name": "Cheese Pasta",
+      "restaurant": "Cheese Pasta",
+      "price": 250,
+      "type": "veg",
+      "rating": 404,
+      "time": "20–45 mins",
+      "category": "Bharat Cafe",
+      "location": "Ghatkopar East",
+      "image": "pasta.jpg",
+      "offer": "10% OFF"
+    }
+  ]
+}
